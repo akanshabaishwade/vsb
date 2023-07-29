@@ -25,5 +25,5 @@ Make sure you have the following software installed on your system:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/django-places-api.git
-cd django-places-api
+git clone git@github.com:akanshabaishwade/vsb.git
+cd vsb
